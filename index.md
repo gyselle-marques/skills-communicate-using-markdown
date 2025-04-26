@@ -33,6 +33,16 @@ Add code examples, screenshots, or instructions as needed:
    console.log("Hello, World!");
    ```
 
+## Tasks
+
+- [x] Define project scope and objectives
+- [x] Set up initial project structure
+- [ ] Develop core functionality
+- [ ] Write unit tests
+- [ ] Create user documentation
+- [ ] Optimize for performance
+- [ ] Release version 1.0
+
 ## License
 
 This project is licensed under the MIT License. For more information, refer to the `LICENSE` file.
