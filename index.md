@@ -2,6 +2,8 @@
 
 A brief description of the project and its purpose.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## Installation
 
 Clone this repository.
