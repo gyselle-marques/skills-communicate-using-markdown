@@ -6,12 +6,32 @@ A brief description of the project and its purpose.
 
 ## Installation
 
-Clone this repository.
+1. Clone this repository.
 
    ```bash
    git clone https://github.com/your-username/project-name.git
    ```
 
+2. Navigate to the project directory.
+
+   ```bash
+   cd project-name
+   ```
+
+3. Install dependencies.
+
+   ```bash
+   npm install
+   ```
+
+## Usage
+
+Add code examples, screenshots, or instructions as needed:
+
+   ```JavaScript
+   // Example code
+   console.log("Hello, World!");
+   ```
 
 ## License
 
